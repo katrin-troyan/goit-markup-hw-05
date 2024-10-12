@@ -768,7 +768,7 @@ img {
     fill: transparent;
 }
 
-.visually-hidden:checked .lable-checkbox-span {
+.visually-hidden:checked + .lable-checkbox .lable-checkbox-span {
     background-color: #404bbf;
     border: none;
     fill:#F4F4FD;
